@@ -1,0 +1,15 @@
+img {
+    z-index: 1;
+    position: absolute;
+}
+
+.div1 {
+    position: absolute;
+    z-index: 2;
+    left: 400px;
+    background-color: white;
+    float: right;
+    width: 70%;
+    height: 600px;
+}
+
